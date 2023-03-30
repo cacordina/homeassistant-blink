@@ -3,7 +3,7 @@
   "name": "Blink",
   "version": "2022.12.0",
   "documentation": "https://www.home-assistant.io/integrations/blink",
-  "requirements": ["blinkpy==0.20.0.rc0"],
+  "requirements": ["blinkpy==0.20.0"],
   "codeowners": ["@fronzbot"],
   "dhcp": [
     {
